@@ -5,7 +5,7 @@ html {
 
 .thumb-img {
   box-shadow: 0 0 2px 1px rgba(0, 0, 0, .15) !important;
-  border-color: #2598BF !important;
+  border-color: #E7C9FE !important;
   border-width: 3px !important;
 }
 
@@ -20,10 +20,10 @@ header div.background {
 }
 
 .custom-colorable {
-  fill: #348EAE !important;
+  fill: #97239B !important;
 }
 
 body {
   background-color: #E7E7E7 !important;
-  color: #2159A1 !important;
+  color: #B206C4 !important;
 }
